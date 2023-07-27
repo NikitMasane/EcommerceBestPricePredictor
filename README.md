@@ -5,11 +5,7 @@ The E-commerce Best Price Predictor is a machine learning-based web application 
 * Introduction
 * Features
 * How It Works
-* Installation
-* Usage
 * Technologies Used
-* Contributing
-* License
   
 ## Introduction
 Online shopping can be overwhelming with varying prices and numerous product options available on different platforms. The E-commerce Best Price Predictor aims to enhance the online shopping experience by assisting users in identifying the best time to make a purchase, maximizing their savings, and making informed decisions.
