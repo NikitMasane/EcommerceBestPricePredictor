@@ -24,11 +24,11 @@ This repository contains the codebase for the web application, where users can s
 ## How It Works
 The E-commerce Best Price Predictor follows these general steps:
 
-Data Collection: Historical price data and product reviews are collected from various e-commerce platforms.
-Data Preprocessing: The collected data is preprocessed to remove noise, handle missing values, and prepare it for training the machine learning model.
-Machine Learning Model: The machine learning model is trained using the preprocessed data to predict the best buying day and recommended platform for each product.
-Web Application: The trained model is integrated into a web application, where users can search for products, view predictions, and explore reviews and ratings.
-User Interaction: Users interact with the application through the user-friendly interface, obtaining valuable insights to optimize their shopping decisions.
+* Data Collection: Historical price data and product reviews are collected from various e-commerce platforms.
+* Data Preprocessing: The collected data is preprocessed to remove noise, handle missing values, and prepare it for training the machine learning model.
+* Machine Learning Model: The machine learning model is trained using the preprocessed data to predict the best buying day and recommended platform for each product.
+* Web Application: The trained model is integrated into a web application, where users can search for products, view predictions, and explore reviews and ratings.
+* User Interaction: Users interact with the application through the user-friendly interface, obtaining valuable insights to optimize their shopping decisions.
 
 ## Technologies Used
 Machine Learning Libraries (e.g., scikit-learn, TensorFlow)
